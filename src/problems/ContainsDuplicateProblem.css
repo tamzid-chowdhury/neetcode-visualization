@@ -1,0 +1,39 @@
+.problem-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .visualization {
+    margin-bottom: 20px;
+  }
+  
+  .matching-message-container {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .step-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .step-button {
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .step-indicator {
+    font-size: 16px;
+  }
